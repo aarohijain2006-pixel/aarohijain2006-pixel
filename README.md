@@ -10,7 +10,7 @@
 - 🌱 Currently learning Data Structures & Algorithms, Web Development
 - 🔥 Solving problems on LeetCode every day
 - 🚀 Building projects using HTML, CSS, JavaScript, and C++
-- 📫 Reach me at: your-email@example.com
+- 📫 Reach me at: aarohi.jain2006@gmail.com
 
 ---
 
