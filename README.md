@@ -1,16 +1,40 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Aarohi Jain</h1>
+<h3 align="center">B.Tech CSE Student | Aspiring Software Engineer | Learnig Web Development and DSA</h3>
 
-<!--
-**aarohijain2006-pixel/aarohijain2006-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Computer Science Student
+- 💻 Passionate about Software Development and Problem Solving
+- 🌱 Currently learning Data Structures & Algorithms, Web Development
+- 🔥 Solving problems on LeetCode every day
+- 🚀 Building projects using HTML, CSS, JavaScript, and C++
+- 📫 Reach me at: your-email@example.com
+
+---
+
+## 🚀 Tech Stack
+
+### Languages
+- C++
+- JavaScript
+- HTML5
+- CSS3
+
+### Tools & Technologies
+- Git
+- GitHub
+- VS Code
+- Vercel
+
+---
+
+## 🌐 Connect with Me
+
+- https://github.com/aarohijain2006-pixel
+- https://www.linkedin.com/in/aarohi-jain-4616a739a/
+
+---
+
+⭐ *"Keep learning, keep building, and keep growing."*
